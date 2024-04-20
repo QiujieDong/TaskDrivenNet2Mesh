@@ -4,7 +4,7 @@
 
 **This repository is the official PyTorch implementation of our paper,  *A Task-driven Network for Mesh Classification and Semantic Part Segmentation*.**
 
-<img src='./assets/Mesh_MLP.webp'>
+<div align=center><img src='./assets/Mesh_MLP.webp'></div>
 
 ## Requirements
 
