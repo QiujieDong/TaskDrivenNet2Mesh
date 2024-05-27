@@ -36,11 +36,15 @@ If you find our work useful for your research, please consider citing the follow
 
 ```bibtex
 @article{Dong2024TaskDrivenNet2Mesh,
-author={Dong, Qiujie and Gong, Xiaoran and Xu, Rui and Wang, Zixiong and Gao, Junjie and Chen, Shuangmin and Xin, Shiqing and Tu, Changhe and Wang, Wenping},
-journal={arXiv},
-title={A Task-driven Network for Mesh Classification and Semantic Part Segmentation},
-year={2023},
-keywords = {Geometric Deep Learning, Mesh Classification, Semantic Part Segmentation, Task-driven Neural Network}
+title = {A task-driven network for mesh classification and semantic part segmentation},
+author = {Qiujie Dong and Xiaoran Gong and Rui Xu and Zixiong Wang and Junjie Gao and Shuangmin Chen and Shiqing Xin and Changhe Tu and Wenping Wang},
+journal = {Computer Aided Geometric Design},
+volume = {111},
+pages = {102304},
+year = {2024},
+issn = {0167-8396},
+doi = {https://doi.org/10.1016/j.cagd.2024.102304},
+keywords = {Geometric deep learning, Mesh classification, Semantic part segmentation, Task-driven neural network}
 }
 ```
 
