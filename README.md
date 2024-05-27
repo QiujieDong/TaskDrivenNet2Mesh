@@ -7,8 +7,28 @@
 <div align=center><img src='./assets/Mesh_MLP.webp'></div>
 
 ## Requirements
+- Python 3.7
+- CUDA 12.0
+- PyTorch 1.11.0
+- potpourri3d (pip install potpourri3d)
+- robust_laplacian (pip install robust_laplacian)
 
-- I appreciate your interest in our work. Since I have other work to do recently, the code will be made public shortly.
+## Installation
+
+```angular2html
+git clone https://github.com/QiujieDong/TaskDrivenNet2Mesh.git
+cd TaskDrivenNet2Mesh
+```
+
+## Fetch Data
+
+The URLs of the datasets used in this paper are listed in ```./data/README.md```. 
+
+## Training
+
+```angular2html
+sh ./scripts/<DATASET_NAME>/train.sh
+```
 
 ## Cite
 
